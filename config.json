@@ -1,0 +1,7 @@
+{
+  "slack_token": "xoxb-95011774999-fIFqcDiXNlW3DFjrcfX0mP6N",
+  "data_file": "data.json",
+  "spreadsheet_id": "1yL1d_j52YdFTAPoYEiKw3OlQjleEaxwJqMJOco4QrOg",
+  "service_account_file": "kin-san-2ff9a8f2fe7a.json",
+  "log_level": "error"
+}
